@@ -16,7 +16,7 @@
       
 ### 💬 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,php,cpp,java,cs,python" />
+  <img src="https://skillicons.dev/icons?i=js,php,cpp,java,cs,python,typescript" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
