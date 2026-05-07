@@ -12,7 +12,8 @@
 
 <table align="center">
   <tr>
-    <td align="left" valign="top" width="50%">
+    <td align="left" valign="top" width="50%">  
+      
 ### 💬 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,php,cpp,java,cs,python" />
@@ -25,6 +26,7 @@
    </td>
 
    <td align="right" valign="top" width="50%">
+     
 ### 🛠 Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postgresql,docker" />
