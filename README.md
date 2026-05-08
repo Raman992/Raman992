@@ -46,49 +46,14 @@
 
 ## 🚀 Projects
 
-### ⛰️ HyHimal Internship Experience
-🧩 Real World Frontend Development Internship  
-📌 Worked on production level web applications using Next.js and modern frontend technologies  
-🚀 Learned component based architecture, API integration, responsive UI design, state management, and debugging in real development environments  
-🐞 Faced and solved real world bugs related to routing, rendering, API handling, responsiveness, and deployment which improved problem-solving and debugging skills  
-🛠️ Extra Technologies explored: UI/UX (Figma & Stitch) and C# (.NET)  
-🔗 https://www.hyhimal.com  
-
----
-
-### 🎬 MoviesOK 
-🧩 React App (AppwriteDb, Express, React, Node.js)  
-📌 Browse Movies and get recommendation according to the clicks search and trends    
-🔗 https://github.com/your-username/enote  
-
----
-
-### 🏫 Online Exam Hall Management System  
-🧩 PHP & MySQL आधारित system  
-📌 Efficient exam hall allocation & student management  
-🔗 https://github.com/your-username/exam-system  
-
----
-
-### 📒 E-Note  
-🧩 MERN Stack App (MongoDB, Express, React, Node.js)  
-📌 Create, store, and manage notes with persistent storage  
-🔗 https://github.com/your-username/enote  
-
----
-
-### 📰 News App  
-🧩 React + REST API  
-📌 Fetch and display real-time news dynamically  
-🔗 https://github.com/your-username/news-app  
-
----
-
-### 🌦 Weather App  
-🧩 React + API Integration  
-📌 Displays real-time weather updates with clean UI  
-🔗 https://github.com/your-username/weather-app  
-
+| Project | Description |
+|---|---|
+| ⛰️ **HyHimal Internship** | 🧩 Real World Frontend Development Internship  <br>📌 Worked on production level web applications using Next.js and modern frontend technologies  <br>🚀 Learned component based architecture, API integration, responsive UI design, state management, and debugging in real development environments  <br>🐞 Faced and solved real world bugs related to routing, rendering, API handling, responsiveness, and deployment which improved problem-solving and debugging skills  <br>🛠️ Extra Technologies explored: UI/UX (Figma & Stitch) and C# (.NET)  <br>🔗 https://www.hyhimal.com |
+| 🎬 **MoviesOK** | 🧩 React App (AppwriteDb, Express, React, Node.js)  <br>📌 Browse Movies and get recommendation according to the clicks search and trends  <br>🔗 https://github.com/Raman992/MoviesOk-project |
+| 🏫 **Online Exam Hall Management System** | 🧩 PHP & MySQL based system  <br>📌 Efficient exam hall allocation & student management  <br>🔗 https://github.com/Raman992/OnlineExamHall |
+| 📒 **E-Note** | 🧩 MERN Stack App (MongoDB, Express, React, Node.js)  <br>📌 Create, store, and manage notes with persistent storage  <br>🔗 https://github.com/Raman992/E-Note |
+| 📰 **News App** | 🧩 React + REST API  <br>📌 Fetch and display real-time news dynamically  <br>🔗 https://github.com/Raman992/newsproject |
+| 🌦 **Weather App** | 🧩 React + API Integration  <br>📌 Displays real-time weather updates with clean UI  <br>🔗 https://github.com/Raman992/hows_the_weather |
 ---
 
 ## 📊 GitHub Stats
