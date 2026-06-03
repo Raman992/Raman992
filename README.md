@@ -58,9 +58,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">  
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raman992&theme=graywhite&hide_border=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raman992&show_icons=true&theme=graywhite&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman992&layout=compact&theme=graywhite&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raman992&theme=graywhite&hide_border=true" />
 </p>
 
 ---
@@ -69,7 +73,7 @@
 
 <p align="center">
   <a href="mailto:ramanshakyag9863@gmail.com">📧 Email</a> •
-  <a href="https://github.com/your-username">🐙 GitHub</a> •
+  <a href="https://github.com/Raman992">🐙 GitHub</a> •
   <a href="https://www.linkedin.com/in/raman-shakya-a2bb65284/">💼 LinkedIn</a>
 </p>
 
