@@ -59,11 +59,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Raman992&show_icons=true&theme=default)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Raman992&theme=default)
 
 </div>
-
 
 ## 📫 Connect with Me
 
